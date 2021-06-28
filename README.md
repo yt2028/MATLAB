@@ -1,2 +1,2 @@
 # MATLAB
-MATLABの作成プログラムまとめ
+MATLABのプログラムまとめ
